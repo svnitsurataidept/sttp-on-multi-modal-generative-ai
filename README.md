@@ -14,5 +14,4 @@ Key Highlights of the Program:
 - Large Language Models
 - Hands-on:  Python/Pytorch/HuggingFace
 <br>
-<br>
 This STTP will encourage faculty members, industry professionals, researchers, and undergraduate <br>and graduate students of different streams to develop applications for their usecases and <br>work on current research  topics in the domain of NLP and computer vision.
