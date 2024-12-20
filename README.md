@@ -5,8 +5,8 @@ and discussions on real-world use cases.
 <br>
 <br>
 Key Highlights of the Program:
-    - Introduction to Deep Learning  
-    - Introduction to Generative AI
+- Introduction to Deep Learning
+- Introduction to Generative AI
     - Generative Adversarial Networks
     - Generative Models in Computer Vision 
     - Introduction to NLP
