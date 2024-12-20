@@ -1,3 +1,12 @@
-# sttp-on-multi-modal-generative-ai
-Short Term Training Program on Multi-Modal Generative AI
-ABCCCD
+# Short Term Training Program on Multi-Modal Generative AI
+The program is focused on discussing various aspects of Generative AI in the fields of NLP and Computer Vision.  You will have the opportunity to learn from experts in the field through hands-on sessions, interactive lectures, and discussions on real-world use cases.
+Key Highlights of the Program:
+    - Introduction to Deep Learning  
+    - Introduction to Generative AI
+    - Generative Adversarial Networks
+    - Generative Models in Computer Vision 
+    - Introduction to NLP
+    - BERT Language Model
+    - Large Language Models
+    - Hands-on:  Python/Pytorch/ Keras 
+This STTP will encourage faculty members, industry professionals, researchers, and undergraduate  and graduate students of different streams to develop applications for their usecases and work on current research  topics in the domain of NLP and computer vision.  Please find the attachment for the STTP flyer. Kindly circulate it to your groups and colleagues so that it reaches a wider audience.
